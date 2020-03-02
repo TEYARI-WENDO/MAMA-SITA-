@@ -26,7 +26,7 @@
     width: 300px;
 }
 .two{
-    
+
     margin-top: 30px;
     
 }
@@ -43,11 +43,13 @@
     height: 100%;
 } */
 .aboutus{
+
 padding: 100px;
 background-color: maroon;
 }
 
 .footer{
+    
     padding-top:70px;
     background-color: maroon;
 }
