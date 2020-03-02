@@ -1,5 +1,6 @@
 
 .landingpage{
+
     background-image: url("images/piz2.jpg");
     background-size: cover;
     height: 600px;
@@ -8,6 +9,7 @@
 
 }
 .pizzeria{
+    
     padding-top: 40px;
     font-family: 'Courgette', cursive;
     font-size: 40px;
