@@ -30,9 +30,10 @@
     margin-top: 30px;
     
 }
-.overlay{  
-    /* display: none */
+.overlay{  border: maroon;
+   
 }
+ /* display: none */
 /* .overlay1{
     display:none;
     position: absolute;
@@ -49,7 +50,7 @@ background-color: maroon;
 }
 
 .footer{
-    
+
     padding-top:70px;
     background-color: maroon;
 }
