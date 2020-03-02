@@ -1,4 +1,4 @@
-##### MAMA SITA PIZZERIA
+# MAMA SITA PIZZERIA
 
 #### AUTHOR'S NAME 
 * Wendo Githaka
