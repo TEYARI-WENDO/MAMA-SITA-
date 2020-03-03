@@ -1,8 +1,4 @@
-$(document).ready(function(){
-    $("button").click(function(){
-      $("p").slideToggle();
-    });
-  });
+
 function getSizeCost() {
     var selectedSize = document.getElementById("size").value;
     return parseInt(selectedSize);
